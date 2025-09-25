@@ -7,20 +7,20 @@
 }
 
 body {
-    background-color: black;
+    background-color: rgb(8, 1, 22);
     overflow: hidden;
 }
 
-.Logo {
+.Logo { 
     float: left;
-    margin-top: 5px;
+    margin-top: 5px;    
     font-size: 20px;
     color: white;
     margin-left: 10px;
 }
 
 header {   
-    background-color: #0e0c0c;
+    background-color: #0f0427;
     display: flow-root;
 }
 
@@ -35,7 +35,7 @@ header {
 }
 
 a:hover {
-    color: orange;
+    color: rgb(166, 224, 228);
 }
 
 .star {
@@ -53,4 +53,14 @@ a:hover {
     50% {transform: scale(1); opacity: .9; }
     75% {transform: scale(2); opacity: .2; }
     100% {transform: scale(.9); opacity: .9; }
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: white;
+}
+
+#caption {
+    text-align: center;
+    font-size: 100px;
+    text-shadow: 0px 0px 10px rgb(166, 224, 228);
 }
