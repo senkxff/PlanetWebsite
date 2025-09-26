@@ -3,7 +3,7 @@ function random(x, y) {
     return (x + (Math.random() * (y - x)));
 }
 
-for (let i = 0; i < 100; i++)
+for (let i = 0; i < 300; i++)
 {
-    document.body.innerHTML += '<div class="star" style="animation-duration: ' + random(0, 50) + 's; top: ' + random(0, 100) + '%; left: ' + random(0,100) + '%;"></div>';
+    document.body.innerHTML += '<div class="star" style="animation-duration: ' + random(0, 50) + 's; top: ' + random(0, 130) + '%; left: ' + random(0, 99) + '%;"></div>';
 }
