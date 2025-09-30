@@ -1,0 +1,54 @@
+#SunPhoto {
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    bottom: 35%;
+}
+
+#SunInformation {
+    position: absolute;
+    left: 33%;
+    bottom: 56%;
+    font-size: 30px;
+    color: white;
+    z-index: 10;
+}
+
+a:hover {
+    color: rgb(255, 81, 0);
+}
+
+.Logo {
+    color: rgb(255, 81, 0);
+}
+
+#borderOne {
+    position: absolute;
+    left: 32%;
+    bottom: 55%;
+    width: 1100px;
+    height: 250px;
+    background-color: rgb(44, 12, 12);
+    z-index: 0index;
+    border-radius: 15px;
+}
+
+#borderTwo {
+    position: absolute;
+    left: 75%;
+    bottom: 5%;
+    width: 350px;
+    height: 350px;
+    background-color: rgb(44, 12, 12);
+    z-index: 0index;
+    border-radius: 15px;
+}
+
+#ScanQR {
+    position: absolute;
+    left: 50%;
+    bottom: 25%;
+    font-size: 60px;
+    color: white;
+    z-index: 10;
+}
