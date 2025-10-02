@@ -3,6 +3,7 @@
     height: 500px;
     position: absolute;
     bottom: 35%;
+    z-index: 10;
 }
 
 #SunInformation {
@@ -50,5 +51,14 @@ a:hover {
     bottom: 25%;
     font-size: 60px;
     color: white;
+    z-index: 10;
+}
+
+#SunQR {
+    position: absolute;
+    left: 75.7%;
+    bottom: 6.3%;
+    width: 330px;
+    height: 330px;
     z-index: 10;
 }

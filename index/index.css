@@ -46,6 +46,7 @@ a:hover {
     background-color: white;
     box-shadow: 0 0 2px 1px white;
     animation: star-scale infinite alternate;
+    z-index: 1;
 }
 @keyframes star-scale {
     0% {transform: scale(1); opacity: 1; }
