@@ -1,0 +1,64 @@
+a:hover {
+    color: rgb(202, 255, 239);
+}
+
+.Logo {
+    color: rgb(165, 223, 205);
+}
+
+#VenusPhoto {
+    position: absolute;
+    z-index: 10;
+    right: 70%;
+    bottom: 50%;
+}
+
+#VenusInformation {
+    position: absolute;
+    left: 33%;
+    right: 2%;
+    bottom: 60%;
+    font-size: 30px;
+    color: white;
+    z-index: 10;
+}
+
+#borderOne {
+    position: absolute;
+    left: 32%;
+    bottom: 55%;
+    width: 1000px;
+    height: 210px;
+    background-color: rgb(47, 66, 61);
+    z-index: 0index;
+    border-radius: 15px;
+}
+
+#borderTwo {
+    position: absolute;
+    left: 75%;
+    bottom: 3%;
+    width: 350px;
+    height: 350px;
+    background-color: rgb(47, 66, 61);
+    z-index: 0index;
+    border-radius: 15px;
+}
+
+#ScanQR {
+    position: absolute;
+    left: 40%;
+    bottom: 23%;
+    font-size: 60px;
+    color: white;
+    z-index: 10;
+}
+
+#VenusQR {
+    position: absolute;
+    left: 76%;
+    bottom: 5%;
+    width: 320px;
+    height: 320px;
+    z-index: 10;
+}
