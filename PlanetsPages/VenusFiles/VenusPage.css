@@ -29,7 +29,7 @@ a:hover {
     bottom: 55%;
     width: 1000px;
     height: 210px;
-    background-color: rgb(47, 66, 61);
+    background-color: rgba(102, 51, 3, 0.664);
     z-index: 0index;
     border-radius: 15px;
 }
@@ -40,7 +40,7 @@ a:hover {
     bottom: 3%;
     width: 350px;
     height: 350px;
-    background-color: rgb(47, 66, 61);
+    background-color: rgb(102, 51, 3, 0.664);
     z-index: 0index;
     border-radius: 15px;
 }
