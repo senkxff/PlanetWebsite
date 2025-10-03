@@ -1,0 +1,64 @@
+a:hover {
+    color: rgb(255, 94, 0);
+}
+
+.Logo {
+    color: rgb(255, 94, 0);
+}
+
+#MarsPhoto {
+    position: absolute;
+    z-index: 10;
+    left: 67%;
+    bottom: 45%;
+}
+
+#MarsInformation {
+    position: absolute;
+    left: 1%;
+    right: 33%;
+    bottom: 55%;
+    font-size: 30px;
+    color: white;
+    z-index: 10;
+}
+
+#borderOne {
+    position: absolute;
+    left: 0.5%;
+    bottom: 53%;
+    width: 1010px;
+    height: 250px;
+    background-color: rgb(47, 66, 61);
+    z-index: 0index;
+    border-radius: 15px;
+}
+
+#borderTwo {
+    position: absolute;
+    left: 0.5%;
+    bottom: 3%;
+    width: 350px;
+    height: 350px;
+    background-color: rgb(47, 66, 61);
+    z-index: 0index;
+    border-radius: 15px;
+}
+
+#ScanQR {
+    position: absolute;
+    left: 25%;
+    bottom: 23%;
+    font-size: 60px;
+    color: white;
+    z-index: 10;
+}
+
+#MarsQR {
+    position: absolute;
+    left: 1.5%;
+    bottom: 5%;
+    width: 320px;
+    height: 320px;
+    z-index: 10;
+}
