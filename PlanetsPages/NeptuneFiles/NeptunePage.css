@@ -1,5 +1,5 @@
 #NeptunePhoto {
-    width: 270px;
+    width: 400px;
     height: 280px;
     position: absolute;
     right: 75%;
@@ -11,18 +11,18 @@
     position: absolute;
     left: 33%;
     right: 8%;
-    bottom: 60%;
+    bottom: 59%;
     font-size: 30px;
     color: white;
     z-index: 10;
 }
 
 a:hover {
-    color: rgba(186, 239, 255, 0.808);
+    color: rgb(10, 101, 129);
 }
 
 .Logo {
-    color: rgb(186, 239, 255, 0.808);
+    color: rgba(10, 101, 129);
 }
 
 #borderOne {
@@ -30,8 +30,8 @@ a:hover {
     left: 32%;
     bottom: 59%;
     width: 1000px;
-    height: 245px;
-    background-color: rgba(186, 239, 255, 0.808);
+    height: 259px;
+    background-color: rgba(10, 101, 129);
     z-index: 0index;
     border-radius: 15px;
 }
@@ -42,7 +42,7 @@ a:hover {
     bottom: 5%;
     width: 350px;
     height: 350px;
-    background-color: rgba(186, 239, 255, 0.808);
+    background-color: rgba(10, 101, 129);
     z-index: 0index;
     border-radius: 15px;
 }
