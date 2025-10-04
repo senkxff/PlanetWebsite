@@ -1,0 +1,66 @@
+#UranusPhoto {
+    width: 270px;
+    height: 280px;
+    position: absolute;
+    right: 75%;
+    bottom: 50%;
+    z-index: 10;
+}
+
+#UranusInformation {
+    position: absolute;
+    left: 33%;
+    right: 8%;
+    bottom: 60%;
+    font-size: 30px;
+    color: white;
+    z-index: 10;
+}
+
+a:hover {
+    color: rgba(186, 239, 255, 0.808);
+}
+
+.Logo {
+    color: rgb(186, 239, 255, 0.808);
+}
+
+#borderOne {
+    position: absolute;
+    left: 32%;
+    bottom: 59%;
+    width: 1000px;
+    height: 245px;
+    background-color: rgba(186, 239, 255, 0.808);
+    z-index: 0index;
+    border-radius: 15px;
+}
+
+#borderTwo {
+    position: absolute;
+    left: 75%;
+    bottom: 5%;
+    width: 350px;
+    height: 350px;
+    background-color: rgba(186, 239, 255, 0.808);
+    z-index: 0index;
+    border-radius: 15px;
+}
+
+#ScanQR {
+    position: absolute;
+    left: 50%;
+    bottom: 25%;
+    font-size: 60px;
+    color: white;
+    z-index: 10;
+}
+
+#UranusQR {
+    position: absolute;
+    left: 75.7%;
+    bottom: 6.3%;
+    width: 330px;
+    height: 330px;
+    z-index: 10;
+}
