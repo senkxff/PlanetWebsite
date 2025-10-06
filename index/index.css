@@ -25,6 +25,7 @@ header {
 }
 
 .menu, li, a {
+    font-family: 'Amatic SC', sans-serif;
     float: right;
     color: white;
     font-size: 25px;
